@@ -8,12 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30bfb03c-17a3-4876-9529-820ae5994e5b" name="Changes" comment="проверка повтора">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BookCat/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookCat/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BookCat/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookCat/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BookCat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookCat/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BookCat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookCat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCat/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookCat/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCat/Storage/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookCat/Storage/Book.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCat/Storage/BookLibrary.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookCat/Storage/BookLibrary.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCat/Storage/Database.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookCat/Storage/Database.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCat/Storage/Memory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookCat/Storage/Memory.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DpaMonitoringSettings">
-    <option name="autoShow" value="false" />
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +33,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/katyashaa/BookCat.git&quot;,
-    &quot;accountId&quot;: &quot;cc27402c-a050-44b4-a39a-2ad3e3c8e1e7&quot;
+    &quot;accountId&quot;: &quot;690220e5-1c5a-45fb-b6d0-35ba64e93af3&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -55,25 +53,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.BookCat.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.BookCat.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="BookCat" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -126,6 +125,8 @@
       <workItem from="1733258416805" duration="153000" />
       <workItem from="1733409795863" duration="7887000" />
       <workItem from="1733418264748" duration="3910000" />
+      <workItem from="1737285733570" duration="102000" />
+      <workItem from="1737285854587" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="почти готово">
       <option name="closed" value="true" />
@@ -192,7 +193,9 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="почти готово" />
     <MESSAGE value="надеюсь работатает" />
